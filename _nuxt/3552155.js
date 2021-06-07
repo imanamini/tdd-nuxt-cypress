@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{246:function(n,t,e){"use strict";e.r(t);var c={name:"Test",data:function(){return{sum:0}},methods:{sumFunc:function(a,b){this.sum=a+b}}},o=e(54),component=Object(o.a)(c,(function(){var n=this,t=n.$createElement;return(n._self._c||t)("div",[n._v("Hallo")])}),[],!1,null,"0761a00a",null);t.default=component.exports}}]);
